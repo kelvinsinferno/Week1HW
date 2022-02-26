@@ -10,7 +10,7 @@ I have:
 - added Alt attributes for broader accessibility.
 - cleaned up the title element
 
-screenshot 
+![Screenshot](assets/images/screenshot.jpg)
 
 
 original code provided through "DU-VIRT-FSF-PT-0202--2-ULOL" Denver University
