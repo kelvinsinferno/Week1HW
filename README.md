@@ -13,4 +13,4 @@ I have:
 screenshot 
 
 
-original code provided through "DU-VIRT-FSF-PT-0202--2-ULOL" Denver University in conjunction with 
+original code provided through "DU-VIRT-FSF-PT-0202--2-ULOL" Denver University
