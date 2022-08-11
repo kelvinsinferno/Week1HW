@@ -1,4 +1,4 @@
-# Horrizon's Refactor
+# Horiezon's Refactor
 ## Week 1 Homework
 01 HTML, CSS, and Git: Code Refactor
 
