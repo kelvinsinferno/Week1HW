@@ -1,4 +1,5 @@
-# Week1HW
+# Horrizon's Refactor
+## Week 1 Homework
 01 HTML, CSS, and Git: Code Refactor
 
 https://kelvinsinferno.github.io/Week1HW/
